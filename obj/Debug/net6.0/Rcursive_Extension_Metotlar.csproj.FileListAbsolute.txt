@@ -1,0 +1,15 @@
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/bin/Debug/net6.0/Rcursive_Extension_Metotlar
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/bin/Debug/net6.0/Rcursive_Extension_Metotlar.deps.json
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/bin/Debug/net6.0/Rcursive_Extension_Metotlar.runtimeconfig.json
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/bin/Debug/net6.0/Rcursive_Extension_Metotlar.dll
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/bin/Debug/net6.0/Rcursive_Extension_Metotlar.pdb
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/obj/Debug/net6.0/Rcursive_Extension_Metotlar.csproj.AssemblyReference.cache
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/obj/Debug/net6.0/Rcursive_Extension_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/obj/Debug/net6.0/Rcursive_Extension_Metotlar.AssemblyInfoInputs.cache
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/obj/Debug/net6.0/Rcursive_Extension_Metotlar.AssemblyInfo.cs
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/obj/Debug/net6.0/Rcursive_Extension_Metotlar.csproj.CoreCompileInputs.cache
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/obj/Debug/net6.0/Rcursive_Extension_Metotlar.dll
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/obj/Debug/net6.0/refint/Rcursive_Extension_Metotlar.dll
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/obj/Debug/net6.0/Rcursive_Extension_Metotlar.pdb
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/obj/Debug/net6.0/Rcursive_Extension_Metotlar.genruntimeconfig.cache
+/Users/yunusemreusta/Desktop/Pratikler/Rcursive_Extension_Metotlar/obj/Debug/net6.0/ref/Rcursive_Extension_Metotlar.dll
